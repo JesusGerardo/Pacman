@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LilDot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LilDots\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=LilDot()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LilDots\r\n
+comment2.params=
+comment2.target=int\ addScore()
+numComments=3
